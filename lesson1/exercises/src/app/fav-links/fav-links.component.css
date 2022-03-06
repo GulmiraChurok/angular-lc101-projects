@@ -1,0 +1,8 @@
+#favLinks {
+    text-align: center;
+}
+
+.FavLinksComponent {
+    display: flexbox;
+    justify-content: center;
+}
